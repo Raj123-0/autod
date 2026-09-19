@@ -8,9 +8,9 @@
 
 | Metric | Value |
 | :--- | :--- |
-| **Total Repositories Synthesized** | `2` |
-| **Total Automated Tests Passing** | `6 (100% Pass Rate)` |
-| **Domain Diversity** | `2 Specialized Fields` |
+| **Total Repositories Synthesized** | `3` |
+| **Total Automated Tests Passing** | `8 (100% Pass Rate)` |
+| **Domain Diversity** | `3 Specialized Fields` |
 | **Cadence** | Every 48 Hours (`0 0 */2 * *`) |
 | **Flagship Model** | Google Gemini 2.5 Flash (1M TPM, 1M Context) |
 
@@ -20,6 +20,7 @@
 
 | Repository | Field / Domain | Verification | Interactive Demo | Release | Created |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| [**`crypto-prim`**](https://github.com/Raj123-0/crypto-prim) | Cryptographic & Security Primitives | `2 tests ✓` | [🎮 Live Demo](https://Raj123-0.github.io/crypto-prim) | [📦 `v0.1.0`](https://github.com/Raj123-0/crypto-prim/releases/tag/v0.1.0) | 2026-09-19 |
 | [**`flatbyte-compiler`**](https://github.com/Raj123-0/flatbyte-compiler) | Systems Programming & Compilers | `2 tests ✓` | [🎮 Live Demo](https://Raj123-0.github.io/flatbyte-compiler) | [📦 `v0.1.0`](https://github.com/Raj123-0/flatbyte-compiler/releases/tag/v0.1.0) | 2026-09-17 |
 | [**`orbit-engine`**](https://github.com/Raj123-0/orbit-engine) | Aerospace & Orbital Mechanics | `4 tests ✓` | [🎮 Live Demo](https://Raj123-0.github.io/orbit-engine) | [📦 `v0.1.0`](https://github.com/Raj123-0/orbit-engine/releases/tag/v0.1.0) | 2026-09-17 |
 
